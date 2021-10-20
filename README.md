@@ -1,10 +1,13 @@
 # ft_server
 
-> **참고한 글들**
-`daehyunlee`'s [[ft_server] 선행지식](https://velog.io/@hidaehyunlee/ftserver-선행지식-Docker-Debian-Buster-Nginx-)
-`daehyunlee`'s [[ft_server] 총 정리 : 도커 설치부터 워드프레스 구축까지](https://velog.io/@hidaehyunlee/ftserver-총-정리-도커-설치부터-워드프레스-구축까지)
-`daehyunlee`'s [[ft_server] 마무리 : Dockerfile 만들기](https://velog.io/@hidaehyunlee/ftserver-마무리-Dockerfile-만들기)
+> **참고한 글들** 
 > 
+>`daehyunlee`'s [[ft_server] 선행지식](https://velog.io/@hidaehyunlee/ftserver-선행지식-Docker-Debian-Buster-Nginx-)
+>
+>`daehyunlee`'s [[ft_server] 총 정리 : 도커 설치부터 워드프레스 구축까지](https://velog.io/@hidaehyunlee/ftserver-총-정리-도커-설치부터-워드프레스-구축까지)
+>
+>`daehyunlee`'s [[ft_server] 마무리 : Dockerfile 만들기](https://velog.io/@hidaehyunlee/ftserver-마무리-Dockerfile-만들기)
+>
 
 # 1. 도커 설치
 
